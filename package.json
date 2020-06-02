@@ -4,7 +4,7 @@
   "description": "Un ejemplo de una tienda basica",
   "main": "index.js",
   "scripts": {
-    "webpack": "webpack --mode development --watch",
+    "webpack": "webpack --mode development --history-api-fallback --watch",
     "start": "node src/index.js"
   },
   "author": "Salvador Gonzalez Galindo",

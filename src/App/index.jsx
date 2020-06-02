@@ -12,8 +12,8 @@ class App extends Component {
     }
     static getDerivedStateFromProps(props,state){
         let ls = JSON.parse(localStorage.getItem('store'));
-        console.log('LocalStorage', ls.isLoging,'State',state.isLoging);
 		if(ls){
+            console.log('LocalStorage', ls.isLoging,'State',state.isLoging);
            return {
                isLoging: ls.isLoging
            };

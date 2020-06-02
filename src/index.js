@@ -3,7 +3,8 @@ const app = express();
 
 //Static file
 app.use(express.static(__dirname + '/public'));
-app.get('*', (req,res) =>{
+app.get('/*', (req,res) =>{
+    //console.log('Ingreso peteicion', req.url);
     res.sendFile(__dirname+'/public/index.html');
 });
 
