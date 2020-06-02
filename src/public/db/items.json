@@ -1,0 +1,25 @@
+{
+    "items":[
+      {"name":"aguacate", "price":"32", "und":"KG", "stock":10},
+      {"name":"ajo", "price":"100", "und":"KG", "stock":10},
+      {"name":"almendras", "price":"120", "und":"KG", "stock":10},
+      {"name":"arandanos", "price":"160", "und":"KG", "stock":10},
+      {"name":"brocoli", "price":"19", "und":"KG", "stock":10},
+      {"name":"calabaza", "price":"22", "und":"KG", "stock":10},
+      {"name":"canela", "price":"90", "und":"KG", "stock":10},
+      {"name":"cebolla", "price":"21", "und":"KG", "stock":10},
+      {"name":"fresa", "price":"60", "und":"KG", "stock":10},
+      {"name":"kiwi", "price":"75", "und":"KG", "stock":10},
+      {"name":"limon", "price":"38", "und":"KG", "stock":10},
+      {"name":"lychee", "price":"99", "und":"KG", "stock":10},
+      {"name":"maiz", "price":"28", "und":"KG", "stock":10},
+      {"name":"manzana", "price":"42", "und":"KG", "stock":10},
+      {"name":"naranja", "price":"17", "und":"KG", "stock":10},
+      {"name":"papa", "price":"18", "und":"KG", "stock":10},
+      {"name":"pasta", "price":"7", "und":"PZ", "stock":10},
+      {"name":"pimienta", "price":"190", "und":"KG", "stock":10},
+      {"name":"repollo", "price":"20", "und":"PZ", "stock":10},
+      {"name":"tomate", "price":"24", "und":"KG", "stock":10},
+      {"name":"zanahoria", "price":"22", "und":"KG", "stock":10}
+    ]
+}

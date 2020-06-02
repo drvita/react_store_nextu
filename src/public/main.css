@@ -1,0 +1,20 @@
+html, body, div#root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.fondoLoging {
+    background-image: url("img/login-fondo.jpg");
+    background-color: #CCC;
+    min-height: 100%;
+}
+.fondoMain {
+    background-image: url("img/main-fondo.jpg");
+    background-color: #DDD;
+    min-height: 100%;
+}
+.logingForm {
+    width: 25em;
+    padding-top: 12em;
+    color: #FFF;
+}
